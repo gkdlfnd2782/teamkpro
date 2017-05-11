@@ -10,6 +10,7 @@
 <%
 	response.sendRedirect("./Main.po");
 // 	response.sendRedirect("./ReplyList.ro");
+//	response.sendRedirect("./ReplyList.ro");
 %>
 </body>
 </html>
