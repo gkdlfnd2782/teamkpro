@@ -1,0 +1,11 @@
+<Context>
+	<Resource 
+	name="jdbc/mysqlDB" 
+	auth="Container" 
+	type="javax.sql.DataSource" 
+	driverClassName="com.mysql.jdbc.Driver" 
+	url="jdbc:mysql://192.168.2.15:3306/jspteam" 
+	username="teamkpro"
+	password="teamkpro2">
+	</Resource>
+</Context>
