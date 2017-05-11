@@ -17,7 +17,6 @@
 </head>
 <%
 	PackBean PB = (PackBean) session.getAttribute("PackBean");
-	//sdf
 %>
 <body>
 	<h3>My Google Maps Demo</h3>
